@@ -1,1 +1,2 @@
 # Predicting-Alzheimer-s-Disease-based-on-3D-Genome-selected-circRNA
+The .xlsx file contains the original expression of all circRNAs and the circRNA expression obtained by each screening, and the .r file contains the model construction and training process. It should be noted that during the training process, we use the .csv file as the input file; in addition, additional training parameters can be added.
